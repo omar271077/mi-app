@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/omar271077/mi-app.git/static/css/main.3758467a.css",
+    "main.js": "/omar271077/mi-app.git/static/js/main.3d20af2c.js",
+    "static/js/787.12f3fc55.chunk.js": "/omar271077/mi-app.git/static/js/787.12f3fc55.chunk.js",
+    "index.html": "/omar271077/mi-app.git/index.html",
+    "main.3758467a.css.map": "/omar271077/mi-app.git/static/css/main.3758467a.css.map",
+    "main.3d20af2c.js.map": "/omar271077/mi-app.git/static/js/main.3d20af2c.js.map",
+    "787.12f3fc55.chunk.js.map": "/omar271077/mi-app.git/static/js/787.12f3fc55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3758467a.css",
+    "static/js/main.3d20af2c.js"
+  ]
+}
