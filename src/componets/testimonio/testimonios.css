@@ -1,0 +1,29 @@
+.testimonio-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .testimonio-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .testimonio-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .testimonio-container label {
+    margin-bottom: 5px;
+  }
+  
+  .testimonio-container textarea {
+    height: 100px;
+    resize: vertical;
+  }
+  
+  .testimonio-container button {
+    margin-top: 10px;
+  }
+  

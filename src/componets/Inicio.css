@@ -1,0 +1,10 @@
+/* Inicio.css */
+
+.inicio-container {
+    display: grid;
+    grid-template-rows: repeat(3, auto); /* Tres filas de altura automática */
+    gap: 20px; /* Espaciado entre las filas */
+  }
+  
+  /* Puedes ajustar los estilos para cada componente según sea necesario */
+  
